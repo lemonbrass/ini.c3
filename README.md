@@ -1,2 +1,2 @@
 # ini.c3
-Simple INI / sorta Toml parser in c3
+Simple INI / sortof Toml parser in c3
